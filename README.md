@@ -1,5 +1,7 @@
-# Project Responsive Web Design using Bootstrap
-## Date:
+# Ex 10 Project Responsive Web Design using Bootstrap
+## Name: Rithik v
+## Reg no:212223230171
+## Date: 13-05-2024
 
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
